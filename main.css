@@ -1,0 +1,10 @@
+@font-face {
+    font-family: swaggy;
+    src: url("sazanami-gothic.ttf"); 
+}
+
+body {
+    text-align:center;
+    font-family: swaggy;
+    image-rendering: pixelated;
+}
